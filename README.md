@@ -4,4 +4,7 @@ The layout of a simplistic discord bot.
 
 
 
-- Wiki =)
+Includes:
+- A custom console message when the bot is online
+- A help command listing the bots functions
+- 1 simple text response command
