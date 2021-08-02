@@ -1,2 +1,3 @@
 # discord-bot-template
-A DIY bot template for beginner developers. 
+The layout of a simplistic discord bot.
+(Requires Node.js to run)
